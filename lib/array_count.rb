@@ -13,4 +13,6 @@ def count_empty_strings(array)
   while count < array.count do
     if array[index] == ""
     end
+  end
+
 end
